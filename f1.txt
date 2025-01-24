@@ -3,5 +3,5 @@ whoami
 pwd
 df -h
 date
-lablk
+ps -ef
 
